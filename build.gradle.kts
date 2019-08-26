@@ -7,6 +7,8 @@ repositories {
 
   // iRODS Jargon Repo
   maven { setUrl("https://raw.github.com/DICE-UNC/DICE-Maven/master/releases") }
+
+  maven { setUrl("https://jitpack.io") }
 }
 
 dependencies {
